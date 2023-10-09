@@ -11,7 +11,7 @@ Nvidia RTX GPU (Unless you know the project you want supports AMD).\
 [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit "CUDA toolkit download").
 
 ### Working with Aimee:
-AImee is intended to be used as a base-of-operations for AI tools. That means AImee will do all of it's work inside the folder it is extracted to.
+AImee is intended to be used as a base-of-operations for AI tools. That means AImee will do all of it's work inside the folder it is extracted to.\
 First, decide a location to clone or download this repo to. (`git clone https://github.com/retr0gr4d3/AImee.git`).\
 Once the files are downloaded:
 - Run `setup-all.bat` in the root folder if you wish to install all AI options currently available...\
