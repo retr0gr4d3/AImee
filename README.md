@@ -4,10 +4,10 @@
 </div>
 
 ### Requirements:
-[Python 3.10.11](https://www.python.org/downloads/release/python-31011/ "3.10.11 release download page").\
-[Git](https://git-scm.com/downloads "Git download").\
 Windows 10/11.\
 Nvidia RTX GPU (Unless you know the project you want supports AMD).\
+[Python 3.10.11](https://www.python.org/downloads/release/python-31011/ "3.10.11 release download page").\
+[Git](https://git-scm.com/downloads "Git download").\
 [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit "CUDA toolkit download").
 
 ### Working with Aimee:
